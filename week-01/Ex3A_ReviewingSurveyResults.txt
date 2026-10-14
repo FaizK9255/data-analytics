@@ -1,0 +1,91 @@
+What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+1. What conclusion can you reach about the responses to this question?
+I can conclude that majority of the class makes sure they are in the waiting room for zoom, and have reviewed their notes
+2. Is the default summary or visualization helpful? How could it be improved?
+It is not helpful because the column is not wide enough for the average answer
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+Does Not Apply
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Each answer must be analyzed individually to understand its content, and this info is difficult to organize 
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+In the future, I would give this question multiple written options, and have the answer style "select all."
+
+Do you have a second monitor connected to your computer?
+1. What conclusion can you reach about the responses to this question?
+I can reach that the class is split with owning a second moniter
+2. Is the default summary or visualization helpful? How could it be improved?
+The default summary is helpful, and can be displayed as a column chart
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+They don't actually say "other," but the cells with self typed answered can be understood as the "other" options. This would be difficult in organization because it is not clearly labeled as "other."
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Does Not Apply
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would provide only a yes or no answer, and add clarity on the second monitor brand in the question. 
+
+Do you have an external keyboard and mouse?
+1. What conclusion can you reach about the responses to this question?
+I can conclude that the class is fairly split when it comes to owning a mouse
+2. Is the default summary or visualization helpful? How could it be improved?
+The default summary is helpful, and can be displayed as a column chart
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+Again, the table doesn't actually say "other," but the cells with self typed answered can be understood as the "other" options. This would be difficult in organization because it is not clearly labeled as "other."
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Does Not Apply
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+Again, I would provide only a yes or no answer
+
+How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+1. What conclusion can you reach about the responses to this question?
+I can conclude that majority of the class will use pen and paper, and others will use technology
+2. Is the default summary or visualization helpful? How could it be improved?
+The default summary is solid, I believe the info can best be displayed as a pie chart
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+Again, the table doesn't actually say "other," but the cells with self typed answered can be understood as the "other" options. This would be difficult in organization because it is not clearly labeled as "other."
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Does Not Apply
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+In the future I would give only two answer options, pen and paper or with technology. 
+
+What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+1. What conclusion can you reach about the responses to this question?
+I can conclude that some were interested in tutoring services, some were interested in the technical skills we will be learning, and some didn't have any questions
+2. Is the default summary or visualization helpful? How could it be improved?
+I believe this is the best format, however again majority of the answer does not fit in the columns
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+Does Not Apply
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Each answer is personal to that test taker, so we must analyze each answer individually to understand the content
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I believe this is the best format for this question. 
+
+Additional Questions:
+Is there anything that surprised you about the survey responses?
+Honestly, I was surprised with how many people didn't have questions. I am always asking questions, as it makes me think in depth about a topic
+
+Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+I am still curious about the "Second Monitor" question. There was no clarity whether this was just a survey question or a legitimate concern for the course. 
+
+Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+If I were the instructor, I would notice how many students use pen and paper to take notes, and therefore will account for that time when facilitating lessons.
+
+Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+I believe it was helpful to make it anonymous, especially for the last question. I believe most students wouldn't feel open to ask their genuine questions if they knew their classmates would see that question. That insecurity sparks dishonesty when asking questions. 
